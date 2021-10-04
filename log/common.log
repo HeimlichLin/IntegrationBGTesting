@@ -1,0 +1,186 @@
+[2019-09-24 09:34:07][INFO][idv.heimlich.TntegrationTesting.ssh.MySSHManager-22] connectionIP:172.31.70.52
+[2019-09-24 09:34:07][INFO][idv.heimlich.TntegrationTesting.ssh.MySSHManager-23] userName:pclmsmgr
+[2019-09-24 09:34:07][INFO][idv.heimlich.TntegrationTesting.ssh.MySSHManager-24] password:!QAZXSW@
+[2019-09-24 09:34:07][INFO][idv.heimlich.TntegrationTesting.common.db.XdaoSessionFactoryImpl-34] use connid:PCLMSPool
+[2019-09-24 09:34:23][INFO][idv.heimlich.TntegrationTesting.common.db.XdaoSessionFactoryImpl-34] use connid:PCLMSPool
+[2019-09-24 09:34:23][INFO][idv.heimlich.TntegrationTesting.common.tester.compoment.impl.CheckExcelDataReaderImp-137] 報告產出位置：/PCLMS/測試報告/20190924/TSFT_N1FETCH_001/A010_單元測試規格表_TSFT_N1FETCH_001_20190924.xls
+[2019-09-24 09:39:49][INFO][idv.heimlich.TntegrationTesting.ssh.MySSHManager-22] connectionIP:172.31.70.52
+[2019-09-24 09:39:49][INFO][idv.heimlich.TntegrationTesting.ssh.MySSHManager-23] userName:pclmsmgr
+[2019-09-24 09:39:49][INFO][idv.heimlich.TntegrationTesting.ssh.MySSHManager-24] password:!QAZXSW@
+[2019-09-24 09:40:05][INFO][idv.heimlich.TntegrationTesting.common.db.XdaoSessionFactoryImpl-34] use connid:PCLMSPool
+[2019-09-24 09:40:15][INFO][idv.heimlich.TntegrationTesting.common.db.XdaoSessionFactoryImpl-34] use connid:PCLMSPool
+[2019-09-24 09:40:16][INFO][idv.heimlich.TntegrationTesting.common.tester.compoment.impl.CheckExcelDataReaderImp-137] 報告產出位置：/PCLMS/測試報告/20190924/TSFT_N1FETCH_001/A010_單元測試規格表_TSFT_N1FETCH_001_20190924.xls
+[2019-09-24 09:40:31][INFO][idv.heimlich.TntegrationTesting.ssh.MySSHManager-22] connectionIP:172.31.70.52
+[2019-09-24 09:40:31][INFO][idv.heimlich.TntegrationTesting.ssh.MySSHManager-23] userName:pclmsmgr
+[2019-09-24 09:40:31][INFO][idv.heimlich.TntegrationTesting.ssh.MySSHManager-24] password:!QAZXSW@
+[2019-09-24 09:40:48][INFO][idv.heimlich.TntegrationTesting.common.db.XdaoSessionFactoryImpl-34] use connid:PCLMSPool
+[2019-09-24 09:41:04][INFO][idv.heimlich.TntegrationTesting.common.db.XdaoSessionFactoryImpl-34] use connid:PCLMSPool
+[2019-09-24 09:41:05][INFO][idv.heimlich.TntegrationTesting.common.tester.compoment.impl.CheckExcelDataReaderImp-137] 報告產出位置：/PCLMS/測試報告/20190924/TSFT_N1FETCH_001/A010_單元測試規格表_TSFT_N1FETCH_001_20190924.xls
+[2019-09-24 09:41:18][INFO][idv.heimlich.TntegrationTesting.ssh.MySSHManager-22] connectionIP:172.31.70.52
+[2019-09-24 09:41:18][INFO][idv.heimlich.TntegrationTesting.ssh.MySSHManager-23] userName:pclmsmgr
+[2019-09-24 09:41:18][INFO][idv.heimlich.TntegrationTesting.ssh.MySSHManager-24] password:!QAZXSW@
+[2019-09-24 09:41:19][INFO][idv.heimlich.TntegrationTesting.common.db.XdaoSessionFactoryImpl-34] use connid:PCLMSPool
+[2019-09-24 09:41:29][INFO][idv.heimlich.TntegrationTesting.common.db.XdaoSessionFactoryImpl-34] use connid:PCLMSPool
+[2019-09-24 09:41:30][INFO][idv.heimlich.TntegrationTesting.common.tester.compoment.impl.CheckExcelDataReaderImp-137] 報告產出位置：/PCLMS/測試報告/20190924/TSFT_N1FETCH_001/A010_單元測試規格表_TSFT_N1FETCH_001_20190924.xls
+[2019-09-24 09:45:42][INFO][idv.heimlich.TntegrationTesting.ssh.MySSHManager-22] connectionIP:172.31.70.52
+[2019-09-24 09:45:42][INFO][idv.heimlich.TntegrationTesting.ssh.MySSHManager-23] userName:pclmsmgr
+[2019-09-24 09:45:42][INFO][idv.heimlich.TntegrationTesting.ssh.MySSHManager-24] password:!QAZXSW@
+[2019-09-24 09:45:47][INFO][idv.heimlich.TntegrationTesting.common.db.XdaoSessionFactoryImpl-34] use connid:PCLMSPool
+[2019-09-24 09:45:56][INFO][idv.heimlich.TntegrationTesting.common.db.XdaoSessionFactoryImpl-34] use connid:PCLMSPool
+[2019-09-24 09:45:57][INFO][idv.heimlich.TntegrationTesting.common.tester.compoment.impl.CheckExcelDataReaderImp-137] 報告產出位置：/PCLMS/測試報告/20190924/TSFT_N1FETCH_001/A010_單元測試規格表_TSFT_N1FETCH_001_20190924.xls
+[2019-09-24 09:45:58][DEBUG][idv.heimlich.TntegrationTesting.common.tester.compoment.impl.CheckExcelDataReaderImp-195] [o]select * from PCLMSMGR.GRNTBILL where BONDNO = 'DD550' AND BILLNO = '700116005-01' AND DEPSDATE = '20190214' AND DEPSAMT = '-250000000' AND RMKS = '東方匯理銀行' AND MSGFUN = '9' AND VALIDDATE = '20210214'
+[2019-09-24 09:54:21][INFO][idv.heimlich.TntegrationTesting.ssh.MySSHManager-22] connectionIP:172.31.70.52
+[2019-09-24 09:54:21][INFO][idv.heimlich.TntegrationTesting.ssh.MySSHManager-23] userName:pclmsmgr
+[2019-09-24 09:54:21][INFO][idv.heimlich.TntegrationTesting.ssh.MySSHManager-24] password:!QAZXSW@
+[2019-09-24 09:54:21][DEBUG][idv.heimlich.TntegrationTesting.common.db.XdaoSessionFactoryImpl-34] use connid:PCLMSPool
+[2019-09-24 09:54:58][DEBUG][idv.heimlich.TntegrationTesting.common.db.XdaoSessionFactoryImpl-34] use connid:PCLMSPool
+[2019-09-24 09:54:58][INFO][idv.heimlich.TntegrationTesting.common.tester.compoment.impl.CheckExcelDataReaderImp-137] 報告產出位置：/PCLMS/測試報告/20190924/TSFT_N1FETCH_001/A010_單元測試規格表_TSFT_N1FETCH_001_20190924.xls
+[2019-09-24 09:54:59][DEBUG][idv.heimlich.TntegrationTesting.common.tester.compoment.impl.CheckExcelDataReaderImp-190] [x]select * from PCLMSMGR.GRNTBILL where BONDNO = 'DD550' AND BILLNO = '700116005-01' AND DEPSDATE = '20190214' AND DEPSAMT = '-250000000' AND RMKS = '東方匯理銀行' AND MSGFUN = '9' AND VALIDDATE = '20210214'
+[2019-09-24 10:00:43,743][{yyy-MM-dd HH:mm:ss}][INFO][idv.heimlich.TntegrationTesting.ssh.MySSHManager-22] connectionIP:172.31.70.52
+[2019-09-24 10:00:43,749][{yyy-MM-dd HH:mm:ss}][INFO][idv.heimlich.TntegrationTesting.ssh.MySSHManager-23] userName:pclmsmgr
+[2019-09-24 10:00:43,749][{yyy-MM-dd HH:mm:ss}][INFO][idv.heimlich.TntegrationTesting.ssh.MySSHManager-24] password:!QAZXSW@
+[2019-09-24 10:00:44,596][{yyy-MM-dd HH:mm:ss}][DEBUG][idv.heimlich.TntegrationTesting.common.db.XdaoSessionFactoryImpl-34] use connid:PCLMSPool
+[2019-09-24 10:00:57,012][{yyy-MM-dd HH:mm:ss}][DEBUG][idv.heimlich.TntegrationTesting.common.db.XdaoSessionFactoryImpl-34] use connid:PCLMSPool
+[2019-09-24 10:00:57,674][{yyy-MM-dd HH:mm:ss}][INFO][idv.heimlich.TntegrationTesting.common.tester.compoment.impl.CheckExcelDataReaderImp-137] 報告產出位置：/PCLMS/測試報告/20190924/TSFT_N1FETCH_001/A010_單元測試規格表_TSFT_N1FETCH_001_20190924.xls
+[2019-09-24 10:00:58,354][{yyy-MM-dd HH:mm:ss}][DEBUG][idv.heimlich.TntegrationTesting.common.tester.compoment.impl.CheckExcelDataReaderImp-195] [o]select * from PCLMSMGR.GRNTBILL where BONDNO = 'DD550' AND BILLNO = '700116005-01' AND DEPSDATE = '20190214' AND DEPSAMT = '-250000000' AND RMKS = '東方匯理銀行' AND MSGFUN = '9' AND VALIDDATE = '20210214'
+[INFO ] 2019-09-24 10:01:47,278(0) --> [main] idv.heimlich.TntegrationTesting.ssh.MySSHManager.getSSHManager(MySSHManager.java:22): connectionIP:172.31.70.52  
+[INFO ] 2019-09-24 10:01:47,286(8) --> [main] idv.heimlich.TntegrationTesting.ssh.MySSHManager.getSSHManager(MySSHManager.java:23): userName:pclmsmgr  
+[INFO ] 2019-09-24 10:01:47,286(8) --> [main] idv.heimlich.TntegrationTesting.ssh.MySSHManager.getSSHManager(MySSHManager.java:24): password:!QAZXSW@  
+[DEBUG] 2019-09-24 10:01:48,123(845) --> [main] idv.heimlich.TntegrationTesting.common.db.XdaoSessionFactoryImpl.getXdaoSession(XdaoSessionFactoryImpl.java:34): use connid:PCLMSPool  
+[DEBUG] 2019-09-24 10:01:55,719(8441) --> [main] idv.heimlich.TntegrationTesting.common.db.XdaoSessionFactoryImpl.getXdaoSession(XdaoSessionFactoryImpl.java:34): use connid:PCLMSPool  
+[INFO ] 2019-09-24 10:01:56,389(9111) --> [main] idv.heimlich.TntegrationTesting.common.tester.compoment.impl.CheckExcelDataReaderImp.checkFile(CheckExcelDataReaderImp.java:137): 報告產出位置：/PCLMS/測試報告/20190924/TSFT_N1FETCH_001/A010_單元測試規格表_TSFT_N1FETCH_001_20190924.xls  
+[DEBUG] 2019-09-24 10:01:57,091(9813) --> [main] idv.heimlich.TntegrationTesting.common.tester.compoment.impl.CheckExcelDataReaderImp.checkTrueOrFalse(CheckExcelDataReaderImp.java:195): [o]select * from PCLMSMGR.GRNTBILL where BONDNO = 'DD550' AND BILLNO = '700116005-01' AND DEPSDATE = '20190214' AND DEPSAMT = '-250000000' AND RMKS = '東方匯理銀行' AND MSGFUN = '9' AND VALIDDATE = '20210214'  
+[2019-09-24 10:04:52][INFO][idv.heimlich.TntegrationTesting.ssh.MySSHManager.getSSHManager(MySSHManager.java:22)]: connectionIP:172.31.70.52  
+[2019-09-24 10:04:52][INFO][idv.heimlich.TntegrationTesting.ssh.MySSHManager.getSSHManager(MySSHManager.java:23)]: userName:pclmsmgr  
+[2019-09-24 10:04:52][INFO][idv.heimlich.TntegrationTesting.ssh.MySSHManager.getSSHManager(MySSHManager.java:24)]: password:!QAZXSW@  
+[2019-09-24 10:04:53][DEBUG][idv.heimlich.TntegrationTesting.common.db.XdaoSessionFactoryImpl.getXdaoSession(XdaoSessionFactoryImpl.java:34)]: use connid:PCLMSPool  
+[2019-09-24 10:05:06][DEBUG][idv.heimlich.TntegrationTesting.common.db.XdaoSessionFactoryImpl.getXdaoSession(XdaoSessionFactoryImpl.java:34)]: use connid:PCLMSPool  
+[2019-09-24 10:05:06][INFO][idv.heimlich.TntegrationTesting.common.tester.compoment.impl.CheckExcelDataReaderImp.checkFile(CheckExcelDataReaderImp.java:137)]: 報告產出位置：/PCLMS/測試報告/20190924/TSFT_N1FETCH_001/A010_單元測試規格表_TSFT_N1FETCH_001_20190924.xls  
+[2019-09-24 10:05:07][DEBUG][idv.heimlich.TntegrationTesting.common.tester.compoment.impl.CheckExcelDataReaderImp.checkTrueOrFalse(CheckExcelDataReaderImp.java:195)]: [o]select * from PCLMSMGR.GRNTBILL where BONDNO = 'DD550' AND BILLNO = '700116005-01' AND DEPSDATE = '20190214' AND DEPSAMT = '-250000000' AND RMKS = '東方匯理銀行' AND MSGFUN = '9' AND VALIDDATE = '20210214'  
+[2019-09-24 10:10:18][INFO][idv.heimlich.TntegrationTesting.ssh.MySSHManager.getSSHManager(MySSHManager.java:22)]: connectionIP:172.31.70.52  
+[2019-09-24 10:10:18][INFO][idv.heimlich.TntegrationTesting.ssh.MySSHManager.getSSHManager(MySSHManager.java:23)]: userName:pclmsmgr  
+[2019-09-24 10:10:18][INFO][idv.heimlich.TntegrationTesting.ssh.MySSHManager.getSSHManager(MySSHManager.java:24)]: password:!QAZXSW@  
+[2019-09-24 10:10:19][DEBUG][idv.heimlich.TntegrationTesting.common.db.XdaoSessionFactoryImpl.getXdaoSession(XdaoSessionFactoryImpl.java:34)]: use connid:PCLMSPool  
+[2019-09-24 10:10:55][DEBUG][idv.heimlich.TntegrationTesting.common.db.XdaoSessionFactoryImpl.getXdaoSession(XdaoSessionFactoryImpl.java:34)]: use connid:PCLMSPool  
+[2019-09-24 10:10:56][INFO][idv.heimlich.TntegrationTesting.common.tester.compoment.impl.CheckExcelDataReaderImp.checkFile(CheckExcelDataReaderImp.java:137)]: 報告產出位置：/PCLMS/測試報告/20190924/TSFT_N1FETCH_001/A010_單元測試規格表_TSFT_N1FETCH_001_20190924.xls  
+[2019-09-24 10:10:57][DEBUG][idv.heimlich.TntegrationTesting.common.tester.compoment.impl.CheckExcelDataReaderImp.checkTrueOrFalse(CheckExcelDataReaderImp.java:190)]: [x]select * from PCLMSMGR.GRNTBILL where BONDNO = 'DD550' AND BILLNO = '700116005-01' AND DEPSDATE = '20190214' AND DEPSAMT = '-250000000' AND RMKS = '東方匯理銀行' AND MSGFUN = '9' AND VALIDDATE = '20210214'  
+[idv.heimlich.TntegrationTesting.ssh.MySSHManager] [0] [main] [%f]     [2019-09-24 10:15:16][INFO ][idv.heimlich.TntegrationTesting.ssh.MySSHManager.getSSHManager(MySSHManager.java:22)]: connectionIP:172.31.70.52  
+[idv.heimlich.TntegrationTesting.ssh.MySSHManager] [9] [main] [%f]     [2019-09-24 10:15:16][INFO ][idv.heimlich.TntegrationTesting.ssh.MySSHManager.getSSHManager(MySSHManager.java:23)]: userName:pclmsmgr  
+[idv.heimlich.TntegrationTesting.ssh.MySSHManager] [9] [main] [%f]     [2019-09-24 10:15:16][INFO ][idv.heimlich.TntegrationTesting.ssh.MySSHManager.getSSHManager(MySSHManager.java:24)]: password:!QAZXSW@  
+[idv.heimlich.TntegrationTesting.common.db.XdaoSessionFactoryImpl] [871] [main] [%f]     [2019-09-24 10:15:16][DEBUG][idv.heimlich.TntegrationTesting.common.db.XdaoSessionFactoryImpl.getXdaoSession(XdaoSessionFactoryImpl.java:34)]: use connid:PCLMSPool  
+[idv.heimlich.TntegrationTesting.common.db.XdaoSessionFactoryImpl] [14498] [main] [%f]     [2019-09-24 10:15:30][DEBUG][idv.heimlich.TntegrationTesting.common.db.XdaoSessionFactoryImpl.getXdaoSession(XdaoSessionFactoryImpl.java:34)]: use connid:PCLMSPool  
+[idv.heimlich.TntegrationTesting.common.tester.compoment.impl.CheckExcelDataReaderImp] [15108] [main] [%f]     [2019-09-24 10:15:31][INFO ][idv.heimlich.TntegrationTesting.common.tester.compoment.impl.CheckExcelDataReaderImp.checkFile(CheckExcelDataReaderImp.java:137)]: 報告產出位置：/PCLMS/測試報告/20190924/TSFT_N1FETCH_001/A010_單元測試規格表_TSFT_N1FETCH_001_20190924.xls  
+[idv.heimlich.TntegrationTesting.common.tester.compoment.impl.CheckExcelDataReaderImp] [15781] [main] [%f]     [2019-09-24 10:15:31][DEBUG][idv.heimlich.TntegrationTesting.common.tester.compoment.impl.CheckExcelDataReaderImp.checkTrueOrFalse(CheckExcelDataReaderImp.java:195)]: [o]select * from PCLMSMGR.GRNTBILL where BONDNO = 'DD550' AND BILLNO = '700116005-01' AND DEPSDATE = '20190214' AND DEPSAMT = '-250000000' AND RMKS = '東方匯理銀行' AND MSGFUN = '9' AND VALIDDATE = '20210214'  
+[MySSHManager.java]     [2019-09-24 10:19:33](main) [INFO ][idv.heimlich.TntegrationTesting.ssh.MySSHManager.getSSHManager(MySSHManager.java:22)]: connectionIP:172.31.70.52  
+[MySSHManager.java]     [2019-09-24 10:19:33](main) [INFO ][idv.heimlich.TntegrationTesting.ssh.MySSHManager.getSSHManager(MySSHManager.java:23)]: userName:pclmsmgr  
+[MySSHManager.java]     [2019-09-24 10:19:33](main) [INFO ][idv.heimlich.TntegrationTesting.ssh.MySSHManager.getSSHManager(MySSHManager.java:24)]: password:!QAZXSW@  
+[XdaoSessionFactoryImpl.java]     [2019-09-24 10:19:34](main) [DEBUG][idv.heimlich.TntegrationTesting.common.db.XdaoSessionFactoryImpl.getXdaoSession(XdaoSessionFactoryImpl.java:34)]: use connid:PCLMSPool  
+[XdaoSessionFactoryImpl.java]     [2019-09-24 10:19:47](main) [DEBUG][idv.heimlich.TntegrationTesting.common.db.XdaoSessionFactoryImpl.getXdaoSession(XdaoSessionFactoryImpl.java:34)]: use connid:PCLMSPool  
+[CheckExcelDataReaderImp.java]     [2019-09-24 10:19:48](main) [INFO ][idv.heimlich.TntegrationTesting.common.tester.compoment.impl.CheckExcelDataReaderImp.checkFile(CheckExcelDataReaderImp.java:137)]: 報告產出位置：/PCLMS/測試報告/20190924/TSFT_N1FETCH_001/A010_單元測試規格表_TSFT_N1FETCH_001_20190924.xls  
+[CheckExcelDataReaderImp.java]     [2019-09-24 10:19:50](main) [DEBUG][idv.heimlich.TntegrationTesting.common.tester.compoment.impl.CheckExcelDataReaderImp.checkTrueOrFalse(CheckExcelDataReaderImp.java:195)]: [o]select * from PCLMSMGR.GRNTBILL where BONDNO = 'DD550' AND BILLNO = '700116005-01' AND DEPSDATE = '20190214' AND DEPSAMT = '-250000000' AND RMKS = '東方匯理銀行' AND MSGFUN = '9' AND VALIDDATE = '20210214'  
+[2019-09-24 10:22:28](0) [INFO][idv.heimlich.TntegrationTesting.ssh.MySSHManager.getSSHManager(MySSHManager.java:22)]: connectionIP:172.31.70.52  
+[2019-09-24 10:22:28](8) [INFO][idv.heimlich.TntegrationTesting.ssh.MySSHManager.getSSHManager(MySSHManager.java:23)]: userName:pclmsmgr  
+[2019-09-24 10:22:28](9) [INFO][idv.heimlich.TntegrationTesting.ssh.MySSHManager.getSSHManager(MySSHManager.java:24)]: password:!QAZXSW@  
+[2019-09-24 10:22:28](818) [DEBUG][idv.heimlich.TntegrationTesting.common.db.XdaoSessionFactoryImpl.getXdaoSession(XdaoSessionFactoryImpl.java:34)]: use connid:PCLMSPool  
+[2019-09-24 10:22:48](20741) [DEBUG][idv.heimlich.TntegrationTesting.common.db.XdaoSessionFactoryImpl.getXdaoSession(XdaoSessionFactoryImpl.java:34)]: use connid:PCLMSPool  
+[2019-09-24 10:22:49](21340) [INFO][idv.heimlich.TntegrationTesting.common.tester.compoment.impl.CheckExcelDataReaderImp.checkFile(CheckExcelDataReaderImp.java:137)]: 報告產出位置：/PCLMS/測試報告/20190924/TSFT_N1FETCH_001/A010_單元測試規格表_TSFT_N1FETCH_001_20190924.xls  
+[2019-09-24 10:22:50](21999) [DEBUG][idv.heimlich.TntegrationTesting.common.tester.compoment.impl.CheckExcelDataReaderImp.checkTrueOrFalse(CheckExcelDataReaderImp.java:195)]: [o]select * from PCLMSMGR.GRNTBILL where BONDNO = 'DD550' AND BILLNO = '700116005-01' AND DEPSDATE = '20190214' AND DEPSAMT = '-250000000' AND RMKS = '東方匯理銀行' AND MSGFUN = '9' AND VALIDDATE = '20210214'  
+[2019-09-24 10:25:17][INFO][idv.heimlich.TntegrationTesting.ssh.MySSHManager.getSSHManager(MySSHManager.java:22)]: connectionIP:172.31.70.52  
+[2019-09-24 10:25:17][INFO][idv.heimlich.TntegrationTesting.ssh.MySSHManager.getSSHManager(MySSHManager.java:23)]: userName:pclmsmgr  
+[2019-09-24 10:25:17][INFO][idv.heimlich.TntegrationTesting.ssh.MySSHManager.getSSHManager(MySSHManager.java:24)]: password:!QAZXSW@  
+[2019-09-24 10:25:17][DEBUG][idv.heimlich.TntegrationTesting.common.db.XdaoSessionFactoryImpl.getXdaoSession(XdaoSessionFactoryImpl.java:34)]: use connid:PCLMSPool  
+[2019-09-24 10:25:37][DEBUG][idv.heimlich.TntegrationTesting.common.db.XdaoSessionFactoryImpl.getXdaoSession(XdaoSessionFactoryImpl.java:34)]: use connid:PCLMSPool  
+[2019-09-24 10:25:38][INFO][idv.heimlich.TntegrationTesting.common.tester.compoment.impl.CheckExcelDataReaderImp.checkFile(CheckExcelDataReaderImp.java:137)]: 報告產出位置：/PCLMS/測試報告/20190924/TSFT_N1FETCH_001/A010_單元測試規格表_TSFT_N1FETCH_001_20190924.xls  
+[2019-09-24 10:25:38][DEBUG][idv.heimlich.TntegrationTesting.common.tester.compoment.impl.CheckExcelDataReaderImp.checkTrueOrFalse(CheckExcelDataReaderImp.java:195)]: [o]select * from PCLMSMGR.GRNTBILL where BONDNO = 'DD550' AND BILLNO = '700116005-01' AND DEPSDATE = '20190214' AND DEPSAMT = '-250000000' AND RMKS = '東方匯理銀行' AND MSGFUN = '9' AND VALIDDATE = '20210214'  
+[2019-09-24 15:59:14][INFO][idv.heimlich.IntegrationTesting.common.tester.ssh.MySSHManager.getSSHManager(MySSHManager.java:18)]: connectionIP:172.31.70.52  
+[2019-09-24 15:59:14][INFO][idv.heimlich.IntegrationTesting.common.tester.ssh.MySSHManager.getSSHManager(MySSHManager.java:19)]: userName:pclmsmgr  
+[2019-09-24 15:59:14][INFO][idv.heimlich.IntegrationTesting.common.tester.ssh.MySSHManager.getSSHManager(MySSHManager.java:20)]: password:!QAZXSW@  
+[2019-09-24 15:59:15][DEBUG][idv.heimlich.IntegrationTesting.common.db.impl.XdaoSessionFactoryImpl.getXdaoSession(XdaoSessionFactoryImpl.java:37)]: use connid:PCLMSPool  
+[2019-09-24 15:59:39][DEBUG][idv.heimlich.IntegrationTesting.common.db.impl.XdaoSessionFactoryImpl.getXdaoSession(XdaoSessionFactoryImpl.java:37)]: use connid:PCLMSPool  
+[2019-09-24 15:59:40][INFO][idv.heimlich.IntegrationTesting.common.tester.impl.CheckExcelDataReaderImp.checkFile(CheckExcelDataReaderImp.java:122)]: 報告產出位置：/PCLMS/測試報告/20190924/TSFT_N1FETCH_001/A010_單元測試規格表_TSFT_N1FETCH_001_20190924.xls  
+[2019-09-24 15:59:40][DEBUG][idv.heimlich.IntegrationTesting.common.tester.impl.CheckExcelDataReaderImp.checkTrueOrFalse(CheckExcelDataReaderImp.java:180)]: [o]select * from PCLMSMGR.GRNTBILL where BONDNO = 'DD550' AND BILLNO = '700116005-01' AND DEPSDATE = '20190214' AND DEPSAMT = '-250000000' AND RMKS = '東方匯理銀行' AND MSGFUN = '9' AND VALIDDATE = '20210214'  
+[2019-09-24 16:19:01][INFO][idv.heimlich.IntegrationTesting.common.tester.ssh.MySSHManager.getSSHManager(MySSHManager.java:18)]: connectionIP:172.31.70.52  
+[2019-09-24 16:19:01][INFO][idv.heimlich.IntegrationTesting.common.tester.ssh.MySSHManager.getSSHManager(MySSHManager.java:19)]: userName:pclmsmgr  
+[2019-09-24 16:19:01][INFO][idv.heimlich.IntegrationTesting.common.tester.ssh.MySSHManager.getSSHManager(MySSHManager.java:20)]: password:!QAZXSW@  
+[2019-09-24 16:19:01][DEBUG][idv.heimlich.IntegrationTesting.common.db.impl.XdaoSessionFactoryImpl.getXdaoSession(XdaoSessionFactoryImpl.java:37)]: use connid:PCLMSPool  
+[2019-09-24 16:19:16][DEBUG][idv.heimlich.IntegrationTesting.common.db.impl.XdaoSessionFactoryImpl.getXdaoSession(XdaoSessionFactoryImpl.java:37)]: use connid:PCLMSPool  
+[2019-09-24 16:19:16][INFO][idv.heimlich.IntegrationTesting.common.tester.impl.CheckExcelDataReaderImp.checkFile(CheckExcelDataReaderImp.java:122)]: 報告產出位置：java/PCLMS/測試報告/20190924/TSFT_N1FETCH_001/A010_單元測試規格表_TSFT_N1FETCH_001_20190924.xls  
+[2019-09-24 16:19:16][DEBUG][idv.heimlich.IntegrationTesting.common.tester.impl.CheckExcelDataReaderImp.checkTrueOrFalse(CheckExcelDataReaderImp.java:180)]: [o]select * from PCLMSMGR.GRNTBILL where BONDNO = 'DD550' AND BILLNO = '700116005-01' AND DEPSDATE = '20190214' AND DEPSAMT = '-250000000' AND RMKS = '東方匯理銀行' AND MSGFUN = '9' AND VALIDDATE = '20210214'  
+[2019-09-24 16:20:16][INFO][idv.heimlich.IntegrationTesting.common.tester.ssh.MySSHManager.getSSHManager(MySSHManager.java:18)]: connectionIP:172.31.70.52  
+[2019-09-24 16:20:16][INFO][idv.heimlich.IntegrationTesting.common.tester.ssh.MySSHManager.getSSHManager(MySSHManager.java:19)]: userName:pclmsmgr  
+[2019-09-24 16:20:16][INFO][idv.heimlich.IntegrationTesting.common.tester.ssh.MySSHManager.getSSHManager(MySSHManager.java:20)]: password:!QAZXSW@  
+[2019-09-24 16:20:16][DEBUG][idv.heimlich.IntegrationTesting.common.db.impl.XdaoSessionFactoryImpl.getXdaoSession(XdaoSessionFactoryImpl.java:37)]: use connid:PCLMSPool  
+[2019-09-24 16:20:31][DEBUG][idv.heimlich.IntegrationTesting.common.db.impl.XdaoSessionFactoryImpl.getXdaoSession(XdaoSessionFactoryImpl.java:37)]: use connid:PCLMSPool  
+[2019-09-24 16:20:31][INFO][idv.heimlich.IntegrationTesting.common.tester.impl.CheckExcelDataReaderImp.checkFile(CheckExcelDataReaderImp.java:122)]: 報告產出位置：測試報告/20190924/TSFT_N1FETCH_001/A010_單元測試規格表_TSFT_N1FETCH_001_20190924.xls  
+[2019-09-24 16:20:31][DEBUG][idv.heimlich.IntegrationTesting.common.tester.impl.CheckExcelDataReaderImp.checkTrueOrFalse(CheckExcelDataReaderImp.java:180)]: [o]select * from PCLMSMGR.GRNTBILL where BONDNO = 'DD550' AND BILLNO = '700116005-01' AND DEPSDATE = '20190214' AND DEPSAMT = '-250000000' AND RMKS = '東方匯理銀行' AND MSGFUN = '9' AND VALIDDATE = '20210214'  
+[2019-09-24 16:21:09][INFO][idv.heimlich.IntegrationTesting.common.tester.ssh.MySSHManager.getSSHManager(MySSHManager.java:18)]: connectionIP:172.31.70.52  
+[2019-09-24 16:21:09][INFO][idv.heimlich.IntegrationTesting.common.tester.ssh.MySSHManager.getSSHManager(MySSHManager.java:19)]: userName:pclmsmgr  
+[2019-09-24 16:21:09][INFO][idv.heimlich.IntegrationTesting.common.tester.ssh.MySSHManager.getSSHManager(MySSHManager.java:20)]: password:!QAZXSW@  
+[2019-09-24 16:21:10][DEBUG][idv.heimlich.IntegrationTesting.common.db.impl.XdaoSessionFactoryImpl.getXdaoSession(XdaoSessionFactoryImpl.java:37)]: use connid:PCLMSPool  
+[2019-09-24 16:21:24][DEBUG][idv.heimlich.IntegrationTesting.common.db.impl.XdaoSessionFactoryImpl.getXdaoSession(XdaoSessionFactoryImpl.java:37)]: use connid:PCLMSPool  
+[2019-09-24 16:21:25][INFO][idv.heimlich.IntegrationTesting.common.tester.impl.CheckExcelDataReaderImp.checkFile(CheckExcelDataReaderImp.java:122)]: 報告產出位置：/測試報告/20190924/TSFT_N1FETCH_001/A010_單元測試規格表_TSFT_N1FETCH_001_20190924.xls  
+[2019-09-24 16:21:25][DEBUG][idv.heimlich.IntegrationTesting.common.tester.impl.CheckExcelDataReaderImp.checkTrueOrFalse(CheckExcelDataReaderImp.java:180)]: [o]select * from PCLMSMGR.GRNTBILL where BONDNO = 'DD550' AND BILLNO = '700116005-01' AND DEPSDATE = '20190214' AND DEPSAMT = '-250000000' AND RMKS = '東方匯理銀行' AND MSGFUN = '9' AND VALIDDATE = '20210214'  
+[2019-09-24 16:30:23][INFO][idv.heimlich.IntegrationTesting.common.tester.ssh.MySSHManager.getSSHManager(MySSHManager.java:18)]: connectionIP:172.31.70.52  
+[2019-09-24 16:30:23][INFO][idv.heimlich.IntegrationTesting.common.tester.ssh.MySSHManager.getSSHManager(MySSHManager.java:19)]: userName:pclmsmgr  
+[2019-09-24 16:30:23][INFO][idv.heimlich.IntegrationTesting.common.tester.ssh.MySSHManager.getSSHManager(MySSHManager.java:20)]: password:!QAZXSW@  
+[2019-09-24 16:30:57][DEBUG][idv.heimlich.IntegrationTesting.common.db.impl.XdaoSessionFactoryImpl.getXdaoSession(XdaoSessionFactoryImpl.java:37)]: use connid:PCLMSPool  
+[2019-09-24 16:43:44][INFO][idv.heimlich.IntegrationTesting.common.tester.ssh.MySSHManager.getSSHManager(MySSHManager.java:18)]: connectionIP:172.31.70.52  
+[2019-09-24 16:43:52][INFO][idv.heimlich.IntegrationTesting.common.tester.ssh.MySSHManager.getSSHManager(MySSHManager.java:19)]: userName:pclmsmgr  
+[2019-09-24 16:43:56][INFO][idv.heimlich.IntegrationTesting.common.tester.ssh.MySSHManager.getSSHManager(MySSHManager.java:20)]: password:!QAZXSW@  
+[2019-09-24 16:44:49][INFO][idv.heimlich.IntegrationTesting.common.tester.ssh.MySSHManager.getSSHManager(MySSHManager.java:18)]: connectionIP:  
+[2019-09-24 16:44:52][INFO][idv.heimlich.IntegrationTesting.common.tester.ssh.MySSHManager.getSSHManager(MySSHManager.java:19)]: userName:  
+[2019-09-24 16:44:53][INFO][idv.heimlich.IntegrationTesting.common.tester.ssh.MySSHManager.getSSHManager(MySSHManager.java:20)]: password:  
+[2019-09-24 16:45:16][INFO][idv.heimlich.IntegrationTesting.common.tester.ssh.MySSHManager.getSSHManager(MySSHManager.java:18)]: connectionIP:172.31.70.52  
+[2019-09-24 16:45:18][INFO][idv.heimlich.IntegrationTesting.common.tester.ssh.MySSHManager.getSSHManager(MySSHManager.java:19)]: userName:pclmsmgr  
+[2019-09-24 16:45:19][INFO][idv.heimlich.IntegrationTesting.common.tester.ssh.MySSHManager.getSSHManager(MySSHManager.java:20)]: password:!QAZXSW@  
+[2019-09-24 16:52:04][DEBUG][idv.heimlich.IntegrationTesting.common.db.impl.XdaoSessionFactoryImpl.getXdaoSession(XdaoSessionFactoryImpl.java:37)]: use connid:PCLMSPool  
+[2019-09-24 17:02:17][INFO][idv.heimlich.IntegrationTesting.common.tester.ssh.MySSHManager.getSSHManager(MySSHManager.java:18)]: connectionIP:172.31.70.52  
+[2019-09-24 17:02:19][INFO][idv.heimlich.IntegrationTesting.common.tester.ssh.MySSHManager.getSSHManager(MySSHManager.java:19)]: userName:pclmsmgr  
+[2019-09-24 17:02:20][INFO][idv.heimlich.IntegrationTesting.common.tester.ssh.MySSHManager.getSSHManager(MySSHManager.java:20)]: password:!QAZXSW@  
+[2019-09-24 17:05:24][DEBUG][idv.heimlich.IntegrationTesting.common.db.impl.XdaoSessionFactoryImpl.getXdaoSession(XdaoSessionFactoryImpl.java:37)]: use connid:PCLMSPool  
+[2019-09-24 17:08:13][INFO][idv.heimlich.IntegrationTesting.common.tester.ssh.MySSHManager.getSSHManager(MySSHManager.java:18)]: connectionIP:172.31.70.52  
+[2019-09-24 17:08:15][INFO][idv.heimlich.IntegrationTesting.common.tester.ssh.MySSHManager.getSSHManager(MySSHManager.java:19)]: userName:pclmsmgr  
+[2019-09-24 17:08:16][INFO][idv.heimlich.IntegrationTesting.common.tester.ssh.MySSHManager.getSSHManager(MySSHManager.java:20)]: password:!QAZXSW@  
+[2019-09-24 17:28:23][INFO][idv.heimlich.IntegrationTesting.common.tester.ssh.MySSHManager.getSSHManager(MySSHManager.java:18)]: connectionIP:172.31.70.52  
+[2019-09-24 17:28:23][INFO][idv.heimlich.IntegrationTesting.common.tester.ssh.MySSHManager.getSSHManager(MySSHManager.java:19)]: userName:pclmsmgr  
+[2019-09-24 17:28:23][INFO][idv.heimlich.IntegrationTesting.common.tester.ssh.MySSHManager.getSSHManager(MySSHManager.java:20)]: password:!QAZXSW@  
+[2019-09-24 17:30:59][INFO][idv.heimlich.IntegrationTesting.common.tester.ssh.MySSHManager.getSSHManager(MySSHManager.java:18)]: connectionIP:172.31.70.52  
+[2019-09-24 17:30:59][INFO][idv.heimlich.IntegrationTesting.common.tester.ssh.MySSHManager.getSSHManager(MySSHManager.java:19)]: userName:pclmsmgr  
+[2019-09-24 17:30:59][INFO][idv.heimlich.IntegrationTesting.common.tester.ssh.MySSHManager.getSSHManager(MySSHManager.java:20)]: password:!QAZXSW@  
+[2019-09-24 17:31:00][DEBUG][idv.heimlich.IntegrationTesting.common.db.impl.XdaoSessionFactoryImpl.getXdaoSession(XdaoSessionFactoryImpl.java:37)]: use connid:PCLMSPool  
+[2019-09-24 17:31:14][DEBUG][idv.heimlich.IntegrationTesting.common.db.impl.XdaoSessionFactoryImpl.getXdaoSession(XdaoSessionFactoryImpl.java:37)]: use connid:PCLMSPool  
+[2019-09-24 17:31:15][INFO][idv.heimlich.IntegrationTesting.common.tester.impl.CheckExcelDataReaderImp.checkFile(CheckExcelDataReaderImp.java:122)]: 報告產出位置：測試報告/20190924/TSFT_N1FETCH_001/A010_單元測試規格表_TSFT_N1FETCH_001_20190924.xls  
+[2019-09-24 17:31:15][DEBUG][idv.heimlich.IntegrationTesting.common.tester.impl.CheckExcelDataReaderImp.checkTrueOrFalse(CheckExcelDataReaderImp.java:180)]: [o]select * from PCLMSMGR.GRNTBILL where BONDNO = 'DD550' AND BILLNO = '700116005-01' AND DEPSDATE = '20190214' AND DEPSAMT = '-250000000' AND RMKS = '東方匯理銀行' AND MSGFUN = '9' AND VALIDDATE = '20210214'  
+[2019-09-25 13:58:44][INFO][idv.heimlich.IntegrationTesting.common.tester.ssh.MySSHManager.getSSHManager(MySSHManager.java:18)]: connectionIP:172.31.70.52  
+[2019-09-25 13:58:44][INFO][idv.heimlich.IntegrationTesting.common.tester.ssh.MySSHManager.getSSHManager(MySSHManager.java:19)]: userName:pclmsmgr  
+[2019-09-25 13:58:44][INFO][idv.heimlich.IntegrationTesting.common.tester.ssh.MySSHManager.getSSHManager(MySSHManager.java:20)]: password:!QAZXSW@  
+[2019-09-25 13:58:52][DEBUG][idv.heimlich.IntegrationTesting.common.db.impl.XdaoSessionFactoryImpl.getXdaoSession(XdaoSessionFactoryImpl.java:37)]: use connid:PCLMSPool  
+[2019-09-25 13:59:07][DEBUG][idv.heimlich.IntegrationTesting.common.db.impl.XdaoSessionFactoryImpl.getXdaoSession(XdaoSessionFactoryImpl.java:37)]: use connid:PCLMSPool  
+[2019-09-25 13:59:08][INFO][idv.heimlich.IntegrationTesting.common.tester.impl.CheckExcelDataReaderImp.checkFile(CheckExcelDataReaderImp.java:122)]: 報告產出位置：測試報告/20190925/TSFT_N1FETCH_001/A010_單元測試規格表_TSFT_N1FETCH_001_20190925.xls  
+[2019-09-25 13:59:08][DEBUG][idv.heimlich.IntegrationTesting.common.tester.impl.CheckExcelDataReaderImp.checkTrueOrFalse(CheckExcelDataReaderImp.java:180)]: [o]select * from PCLMSMGR.GRNTBILL where BONDNO = 'DD550' AND BILLNO = '700116005-01' AND DEPSDATE = '20190214' AND DEPSAMT = '-250000000' AND RMKS = '東方匯理銀行' AND MSGFUN = '9' AND VALIDDATE = '20210214'  
+[2019-09-25 13:59:51][INFO][idv.heimlich.IntegrationTesting.common.tester.ssh.MySSHManager.getSSHManager(MySSHManager.java:18)]: connectionIP:172.31.70.52  
+[2019-09-25 13:59:51][INFO][idv.heimlich.IntegrationTesting.common.tester.ssh.MySSHManager.getSSHManager(MySSHManager.java:19)]: userName:pclmsmgr  
+[2019-09-25 13:59:51][INFO][idv.heimlich.IntegrationTesting.common.tester.ssh.MySSHManager.getSSHManager(MySSHManager.java:20)]: password:!QAZXSW@  
+[2019-09-25 13:59:52][DEBUG][idv.heimlich.IntegrationTesting.common.db.impl.XdaoSessionFactoryImpl.getXdaoSession(XdaoSessionFactoryImpl.java:37)]: use connid:PCLMSPool  
+[2019-09-25 14:00:08][DEBUG][idv.heimlich.IntegrationTesting.common.db.impl.XdaoSessionFactoryImpl.getXdaoSession(XdaoSessionFactoryImpl.java:37)]: use connid:PCLMSPool  
+[2019-09-25 14:00:08][INFO][idv.heimlich.IntegrationTesting.common.tester.impl.CheckExcelDataReaderImp.checkFile(CheckExcelDataReaderImp.java:122)]: 報告產出位置：測試報告/20190925/TSFT_N1FETCH_001/A010_單元測試規格表_TSFT_N1FETCH_001_20190925.xls  
+[2019-09-25 14:00:08][DEBUG][idv.heimlich.IntegrationTesting.common.tester.impl.CheckExcelDataReaderImp.checkTrueOrFalse(CheckExcelDataReaderImp.java:180)]: [o]select * from PCLMSMGR.GRNTBILL where BONDNO = 'DD550' AND BILLNO = '700116005-01' AND DEPSDATE = '20190214' AND DEPSAMT = '-250000000' AND RMKS = '東方匯理銀行' AND MSGFUN = '9' AND VALIDDATE = '20210214'  
+[2019-09-25 14:00:48][INFO][idv.heimlich.IntegrationTesting.common.tester.ssh.MySSHManager.getSSHManager(MySSHManager.java:18)]: connectionIP:172.31.70.52  
+[2019-09-25 14:00:48][INFO][idv.heimlich.IntegrationTesting.common.tester.ssh.MySSHManager.getSSHManager(MySSHManager.java:19)]: userName:pclmsmgr  
+[2019-09-25 14:00:48][INFO][idv.heimlich.IntegrationTesting.common.tester.ssh.MySSHManager.getSSHManager(MySSHManager.java:20)]: password:!QAZXSW@  
+[2019-09-25 14:00:50][DEBUG][idv.heimlich.IntegrationTesting.common.db.impl.XdaoSessionFactoryImpl.getXdaoSession(XdaoSessionFactoryImpl.java:37)]: use connid:PCLMSPool  
+[2019-09-25 14:02:47][INFO][idv.heimlich.IntegrationTesting.common.tester.ssh.MySSHManager.getSSHManager(MySSHManager.java:18)]: connectionIP:172.31.70.52  
+[2019-09-25 14:02:47][INFO][idv.heimlich.IntegrationTesting.common.tester.ssh.MySSHManager.getSSHManager(MySSHManager.java:19)]: userName:pclmsmgr  
+[2019-09-25 14:02:47][INFO][idv.heimlich.IntegrationTesting.common.tester.ssh.MySSHManager.getSSHManager(MySSHManager.java:20)]: password:!QAZXSW@  
+[2019-09-25 14:02:49][DEBUG][idv.heimlich.IntegrationTesting.common.db.impl.XdaoSessionFactoryImpl.getXdaoSession(XdaoSessionFactoryImpl.java:37)]: use connid:PCLMSPool  
+[2019-09-25 14:03:19][INFO][idv.heimlich.IntegrationTesting.common.tester.ssh.MySSHManager.getSSHManager(MySSHManager.java:18)]: connectionIP:172.31.70.52  
+[2019-09-25 14:03:19][INFO][idv.heimlich.IntegrationTesting.common.tester.ssh.MySSHManager.getSSHManager(MySSHManager.java:19)]: userName:pclmsmgr  
+[2019-09-25 14:03:19][INFO][idv.heimlich.IntegrationTesting.common.tester.ssh.MySSHManager.getSSHManager(MySSHManager.java:20)]: password:!QAZXSW@  
+[2019-09-25 14:03:21][DEBUG][idv.heimlich.IntegrationTesting.common.db.impl.XdaoSessionFactoryImpl.getXdaoSession(XdaoSessionFactoryImpl.java:37)]: use connid:PCLMSPool  
+[2019-09-25 14:05:23][INFO][idv.heimlich.IntegrationTesting.common.tester.ssh.MySSHManager.getSSHManager(MySSHManager.java:18)]: connectionIP:172.31.70.52  
+[2019-09-25 14:05:23][INFO][idv.heimlich.IntegrationTesting.common.tester.ssh.MySSHManager.getSSHManager(MySSHManager.java:19)]: userName:pclmsmgr  
+[2019-09-25 14:05:23][INFO][idv.heimlich.IntegrationTesting.common.tester.ssh.MySSHManager.getSSHManager(MySSHManager.java:20)]: password:!QAZXSW@  
+[2019-09-25 14:05:25][DEBUG][idv.heimlich.IntegrationTesting.common.db.impl.XdaoSessionFactoryImpl.getXdaoSession(XdaoSessionFactoryImpl.java:37)]: use connid:PCLMSPool  
+[2020-10-08 15:34:11][INFO][ idv.heimlich.IntegrationTesting.common.tester.ssh.MySSHManager.getSSHManager(MySSHManager.java:18)]: connectionIP:172.31.70.52  
+[2020-10-08 15:34:11][INFO][ idv.heimlich.IntegrationTesting.common.tester.ssh.MySSHManager.getSSHManager(MySSHManager.java:19)]: userName:pclmsmgr  
+[2020-10-08 15:34:11][INFO][ idv.heimlich.IntegrationTesting.common.tester.ssh.MySSHManager.getSSHManager(MySSHManager.java:20)]: password:!QAZXSW@  

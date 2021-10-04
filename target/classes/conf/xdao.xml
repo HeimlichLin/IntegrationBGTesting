@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<taurus-xdao>
+	<data-source id="pclmsDS"
+		class="com.tradevan.taurus.xdao.ds.JdbcDataSource" type="oracle"
+		loadOnStart="false">
+		<property name="jdbc-driver" value="oracle.jdbc.driver.OracleDriver" />
+		<property name="jdbc-url" value="jdbc:oracle:thin:@172.31.70.50:1524:T04A" />
+		<property name="user" value="PCLMSMGR" />
+		<property name="password" value="PCLMSMGRVT" />
+	</data-source>
+	<data-source id="pftzbDS"
+		class="com.tradevan.taurus.xdao.ds.JdbcDataSource" type="oracle"
+		loadOnStart="false">
+		<property name="jdbc-driver" value="oracle.jdbc.driver.OracleDriver" />
+		<property name="jdbc-url" value="jdbc:oracle:thin:@172.31.70.50:1524:T04A" />
+		<property name="user" value="PFTZBMGR" />
+		<property name="password" value="TVPFTZBMGR" />
+	</data-source>
+
+	<data-source id="pftzDS"
+		class="com.tradevan.taurus.xdao.ds.JdbcDataSource" type="oracle"
+		loadOnStart="false">
+		<!-- Connection Pool -->
+		<property name="pool-size" value="8" />
+		<property name="wait-time" value="-1" />
+		<property name="validation-sql" value="select 1 from dual" />
+		<property name="test-borrow" value="true" />
+		<!-- DbConnection -->
+		<property name="jdbc-driver" value="oracle.jdbc.driver.OracleDriver" />
+		<property name="auth-handler"
+			value="com.tradevan.taurus.xdao.handler.EncryptAuthHandler" />
+		<property name="encrypted" value="true" />
+		<property name="auth-user" value="pftzbmgr" />
+		<!-- 測試 -->
+		<property name="jdbc-url" value="jdbc:oracle:thin:@172.31.70.50:1524:T04A" />
+		<property name="application-id" value="T04A" />
+		<property name="auth-file" value="/APCLMS/def/orapass" />
+		<!-- 驗證 <property name="jdbc-url" value="jdbc:oracle:thin:@10.89.1.11:1524:V04A" 
+			/> <property name="application-id" value="V04A" /> <property name="auth-file" 
+			value="/APCLMS/def/orapass.ver" /> -->
+		<!-- 營運 <property name="jdbc-url" value="jdbc:oracle:thin:@10.88.8.2:1524:P04A" 
+			/> <property name="application-id" value="P04A" /> <property name="auth-file" 
+			value="/APCLMS/def/orapass.prod" /> -->
+	</data-source>
+
+	<data-source id="stagingDS"
+		class="com.tradevan.taurus.xdao.ds.JdbcDataSource" type="oracle"
+		loadOnStart="false">
+		<!-- Connection Pool -->
+		<property name="pool-size" value="8" />
+		<property name="wait-time" value="-1" />
+		<property name="validation-sql" value="select 1 from dual" />
+		<property name="test-borrow" value="true" />
+		<!-- DbConnection -->
+		<property name="jdbc-driver" value="oracle.jdbc.driver.OracleDriver" />
+		<property name="auth-handler"
+			value="com.tradevan.taurus.xdao.handler.EncryptAuthHandler" />
+		<property name="encrypted" value="true" />
+		<property name="auth-user" value="pngsc4pclmssrv" />
+		<!-- 測試 -->
+		<property name="jdbc-url" value="jdbc:oracle:thin:@172.31.70.61:1521:T01A" />
+		<property name="application-id" value="T01A" />
+		<property name="auth-file" value="/APCLMS/def/orapass" />
+		<!-- 驗證 <property name="jdbc-url" value="jdbc:oracle:thin:@10.89.1.11:1520:V01A" 
+			/> <property name="application-id" value="V01A" /> <property name="auth-file" 
+			value="/APCLMS/def/orapass.ver" /> -->
+		<!-- 營運 <property name="jdbc-url" value="jdbc:oracle:thin:@10.88.6.11:1520:P01A" 
+			/> <property name="application-id" value="P01A" /> <property name="auth-file" 
+			value="/APCLMS/def/orapass.prod" /> -->
+	</data-source>
+
+	<data-source id="PDCCUDS"
+		class="com.tradevan.taurus.xdao.ds.JdbcDataSource" type="oracle"
+		loadOnStart="false">
+		<!-- Connection Pool -->
+		<property name="pool-size" value="8" />
+		<property name="wait-time" value="-1" />
+		<property name="validation-sql" value="select 1 from dual" />
+		<property name="test-borrow" value="true" />
+		<!-- DbConnection -->
+		<property name="jdbc-driver" value="oracle.jdbc.driver.OracleDriver" />
+		<property name="auth-handler"
+			value="com.tradevan.taurus.xdao.handler.EncryptAuthHandler" />
+		<property name="encrypted" value="true" />
+		<property name="auth-user" value="pdccu4pclmssrv" />
+
+		<!-- 測試 -->
+		<property name="jdbc-url" value="jdbc:oracle:thin:@172.31.70.50:1533:T13A" />
+		<property name="application-id" value="T13A" />
+		<property name="auth-file" value="/APCLMS/def/orapass" />
+
+		<!-- 營運 <property name="jdbc-url" value="jdbc:oracle:thin:@10.88.8.4:1533:P13A"/> 
+			<property name="application-id" value="P13A" /> <property name="auth-file" 
+			value="/APCLMS/def/orapass" /> -->
+
+	</data-source>
+
+	<!-- 等營運部給環境 -->
+	<connections logger="XdaoLogger" logConfig="">
+		<connection id="PCLMSPool" dataSource="pclmsDS" logger="XdaoLogger">
+			<property name="keep-data-type" value="true" />
+			<property name="show-sql" value="true" />
+			<property name="skip-null-value" value="false" />
+			<property name="null-to-string" value="true" />
+		</connection>
+		<connection id="PFTZBPool" dataSource="pftzbDS" logger="XdaoLogger">
+			<property name="keep-data-type" value="true" />
+			<property name="show-sql" value="true" />
+			<property name="skip-null-value" value="false" />
+			<property name="null-to-string" value="true" />
+		</connection>
+		<connection id="StagingPool" dataSource="stagingDS" logger="XdaoLogger">
+
+			<property name="keep-data-type" value="true" />
+			<property name="show-sql" value="true" />
+			<property name="skip-null-value" value="false" />
+			<property name="null-to-string" value="true" />
+		</connection>
+		<connection id="PDCCUPool" dataSource="PDCCUDS" logger="XdaoLogger">
+
+			<property name="keep-data-type" value="true" />
+			<property name="show-sql" value="true" />
+			<property name="skip-null-value" value="false" />
+			<property name="null-to-string" value="true" />
+		</connection>
+	</connections>
+</taurus-xdao>

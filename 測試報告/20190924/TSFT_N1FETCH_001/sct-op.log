@@ -1,0 +1,354 @@
+Last unsuccessful login: Thu Sep 19 13:52:49 TAIST 2019 on ssh from 192.168.107.131
+Last login: Tue Sep 24 16:20:19 TAIST 2019 on ssh from 192.168.107.10
+*******************************************************************************
+*                                                                             *
+*                                                                             *
+*  Welcome to AIX Version 7.1!                                                *
+*                                                                             *
+*                                                                             *
+*  Please see the README file in /usr/lpp/bos for information pertinent to    *
+*  this release of the AIX Operating System.                                  *
+*                                                                             *
+*                                                                             *
+*******************************************************************************
+cd /APCLMS
+
+oxPCLMS.sct down
+
+cd /APCLMS/SCT
+
+clprocN1
+
+exit
+
+-rwxrwxrwx    1 pclmsmgr PCLMS          4825 Sep 18 17:06 /APCLMS/def/SET_APCLMS_ENV.def
+tbg1a)pclmsmgr:/home/pclmsmgr>cd /APCLMS
+
+tbg1a)pclmsmgr:/home/pclmsmgr>          
+
+tbg1a)pclmsmgr:/home/pclmsmgr>cd /APCLMS
+
+tbg1a)pclmsmgr:/home/pclmsmgr>cd /APCLMS
+tbg1a)pclmsmgr:/APCLMS>
+
+tbg1a)pclmsmgr:/APCLMS>
+
+tbg1a)pclmsmgr:/APCLMS>
+
+tbg1a)pclmsmgr:/APCLMS>
+tbg1a)pclmsmgr:/APCLMS>oxPCLMS.sct down
+
+tbg1a)pclmsmgr:/APCLMS>                
+
+tbg1a)pclmsmgr:/APCLMS>oxPCLMS.sct down
+
+tbg1a)pclmsmgr:/APCLMS>oxPCLMS.sct down
+check cl processes
+=======kill ..
+check scan_ processes
+=======kill ..
+check rdoerr processes
+=======kill ..
+check EXE/cl processes
+=======kill ..
+check SCT/cl processes
+=======kill ..
+check sleep processes
+pclmsmgr 20644082 23920688   0 16:20:20  pts/0  0:00 grep sleep
+=======kill ..
+check java processes
+=======kill ..
+mv: 0653-401 無法將 /APCLMS/SCT/PCLMSaimon.sct 重新命名為 /APCLMS/SCT/PCLMSaimon.sct.old:
+             路徑名稱中的檔案或目錄不存在。
+tbg1a)pclmsmgr:/APCLMS>
+
+tbg1a)pclmsmgr:/APCLMS>
+
+tbg1a)pclmsmgr:/APCLMS>
+
+tbg1a)pclmsmgr:/APCLMS>
+tbg1a)pclmsmgr:/APCLMS>cd /APCLMS/SCT
+
+tbg1a)pclmsmgr:/APCLMS>              
+
+tbg1a)pclmsmgr:/APCLMS>cd /APCLMS/SCT
+
+tbg1a)pclmsmgr:/APCLMS>cd /APCLMS/SCT
+tbg1a)pclmsmgr:/APCLMS/SCT>
+
+tbg1a)pclmsmgr:/APCLMS/SCT>
+
+tbg1a)pclmsmgr:/APCLMS/SCT>
+
+tbg1a)pclmsmgr:/APCLMS/SCT>
+tbg1a)pclmsmgr:/APCLMS/SCT>clprocN1
+
+tbg1a)pclmsmgr:/APCLMS/SCT>        
+
+tbg1a)pclmsmgr:/APCLMS/SCT>clprocN1
+
+tbg1a)pclmsmgr:/APCLMS/SCT>clprocN1
+step=N1PROCESS
+09/24/19 16:20:21 ** start receive message **
+[APCLMS_CONSOLE][Tue Sep 24 16:20:29 CST 2019][DEBUG][] - : Connection Active: 1 / 8, Idle:0
+[APCLMS_CONSOLE][Tue Sep 24 16:20:29 CST 2019][DEBUG][] - : set 1th parameter: DD550
+[APCLMS_CONSOLE][Tue Sep 24 16:20:29 CST 2019][DEBUG][] - : set 2th parameter: 700116005-01
+[APCLMS_CONSOLE][Tue Sep 24 16:20:29 CST 2019][DEBUG][] - : Connection Active: 0 / 8, Idle:1
+[APCLMS_CONSOLE][Tue Sep 24 16:20:29 CST 2019][DEBUG][] - : Connection Active: 1 / 8, Idle:0
+[APCLMS_CONSOLE][Tue Sep 24 16:20:29 CST 2019][DEBUG][] - : set 1th parameter: 20190214
+[APCLMS_CONSOLE][Tue Sep 24 16:20:29 CST 2019][DEBUG][] - : set 2th parameter: 東方匯理銀行
+[APCLMS_CONSOLE][Tue Sep 24 16:20:30 CST 2019][DEBUG][] - : set 3th parameter: -250000000
+[APCLMS_CONSOLE][Tue Sep 24 16:20:30 CST 2019][DEBUG][] - : set 4th parameter: DD550
+[APCLMS_CONSOLE][Tue Sep 24 16:20:30 CST 2019][DEBUG][] - : set 5th parameter: 700116005-01
+[APCLMS_CONSOLE][Tue Sep 24 16:20:30 CST 2019][DEBUG][] - : set 6th parameter: 20210214
+[APCLMS_CONSOLE][Tue Sep 24 16:20:30 CST 2019][DEBUG][] - : set 7th parameter: 9
+[APCLMS_CONSOLE][Tue Sep 24 16:20:30 CST 2019][DEBUG][] - : Connection Active: 0 / 8, Idle:1
+[APCLMS_CONSOLE][Tue Sep 24 16:20:30 CST 2019][DEBUG][] - : Connection Active: 1 / 8, Idle:0
+[APCLMS_CONSOLE][Tue Sep 24 16:20:30 CST 2019][DEBUG][] - : set 1th parameter: N1.Z處理成功
+[APCLMS_CONSOLE][Tue Sep 24 16:20:30 CST 2019][DEBUG][] - : set 2th parameter: 20190214
+[APCLMS_CONSOLE][Tue Sep 24 16:20:30 CST 2019][DEBUG][] - : set 3th parameter: 東方匯理銀行
+[APCLMS_CONSOLE][Tue Sep 24 16:20:30 CST 2019][DEBUG][] - : set 4th parameter: -250000000
+[APCLMS_CONSOLE][Tue Sep 24 16:20:30 CST 2019][DEBUG][] - : set 5th parameter: DD550
+[APCLMS_CONSOLE][Tue Sep 24 16:20:30 CST 2019][DEBUG][] - : set 6th parameter: 700116005-01
+[APCLMS_CONSOLE][Tue Sep 24 16:20:30 CST 2019][DEBUG][] - : set 7th parameter: 20210214
+[APCLMS_CONSOLE][Tue Sep 24 16:20:30 CST 2019][DEBUG][] - : set 8th parameter: 20190924162030
+[APCLMS_CONSOLE][Tue Sep 24 16:20:30 CST 2019][DEBUG][] - : set 9th parameter: 9
+[APCLMS_CONSOLE][Tue Sep 24 16:20:30 CST 2019][DEBUG][] - : Connection Active: 0 / 8, Idle:1
+N1FETCH rtn code= 0
+N1FETCH sleeping ......
+Last unsuccessful login: Thu Sep 19 13:52:49 TAIST 2019 on ssh from 192.168.107.131
+Last login: Tue Sep 24 17:05:33 TAIST 2019 on ssh from 192.168.107.10
+*******************************************************************************
+*                                                                             *
+*                                                                             *
+*  Welcome to AIX Version 7.1!                                                *
+*                                                                             *
+*                                                                             *
+*  Please see the README file in /usr/lpp/bos for information pertinent to    *
+*  this release of the AIX Operating System.                                  *
+*                                                                             *
+*                                                                             *
+*******************************************************************************
+cd /APCLMS
+
+oxPCLMS.sct down
+
+cd /APCLMS/SCT
+
+clprocN1
+
+exit
+
+-rwxrwxrwx    1 pclmsmgr PCLMS          4825 Sep 18 17:06 /APCLMS/def/SET_APCLMS_ENV.def
+tbg1a)pclmsmgr:/home/pclmsmgr>cd /APCLMS
+
+tbg1a)pclmsmgr:/home/pclmsmgr>          
+
+tbg1a)pclmsmgr:/home/pclmsmgr>cd /APCLMS
+
+tbg1a)pclmsmgr:/home/pclmsmgr>cd /APCLMS
+tbg1a)pclmsmgr:/APCLMS>
+
+tbg1a)pclmsmgr:/APCLMS>
+
+tbg1a)pclmsmgr:/APCLMS>
+
+tbg1a)pclmsmgr:/APCLMS>
+tbg1a)pclmsmgr:/APCLMS>oxPCLMS.sct down
+
+tbg1a)pclmsmgr:/APCLMS>                
+
+tbg1a)pclmsmgr:/APCLMS>oxPCLMS.sct down
+
+tbg1a)pclmsmgr:/APCLMS>oxPCLMS.sct down
+check cl processes
+=======kill ..
+check scan_ processes
+=======kill ..
+check rdoerr processes
+=======kill ..
+check EXE/cl processes
+=======kill ..
+check SCT/cl processes
+=======kill ..
+check sleep processes
+pclmsmgr 53674038 43778056   0 17:05:43  pts/0  0:00 grep sleep
+=======kill ..
+check java processes
+=======kill ..
+mv: 0653-401 無法將 /APCLMS/SCT/PCLMSaimon.sct 重新命名為 /APCLMS/SCT/PCLMSaimon.sct.old:
+             路徑名稱中的檔案或目錄不存在。
+tbg1a)pclmsmgr:/APCLMS>
+
+tbg1a)pclmsmgr:/APCLMS>
+
+tbg1a)pclmsmgr:/APCLMS>
+
+tbg1a)pclmsmgr:/APCLMS>
+tbg1a)pclmsmgr:/APCLMS>cd /APCLMS/SCT
+
+tbg1a)pclmsmgr:/APCLMS>              
+
+tbg1a)pclmsmgr:/APCLMS>cd /APCLMS/SCT
+
+tbg1a)pclmsmgr:/APCLMS>cd /APCLMS/SCT
+tbg1a)pclmsmgr:/APCLMS/SCT>
+
+tbg1a)pclmsmgr:/APCLMS/SCT>
+
+tbg1a)pclmsmgr:/APCLMS/SCT>
+
+tbg1a)pclmsmgr:/APCLMS/SCT>
+tbg1a)pclmsmgr:/APCLMS/SCT>clprocN1
+
+tbg1a)pclmsmgr:/APCLMS/SCT>        
+
+tbg1a)pclmsmgr:/APCLMS/SCT>clprocN1
+
+tbg1a)pclmsmgr:/APCLMS/SCT>clprocN1
+step=N1PROCESS
+09/24/19 17:05:43 ** start receive message **
+[APCLMS_CONSOLE][Tue Sep 24 17:05:49 CST 2019][DEBUG][] - : Connection Active: 1 / 8, Idle:0
+[APCLMS_CONSOLE][Tue Sep 24 17:05:49 CST 2019][DEBUG][] - : set 1th parameter: DD550
+[APCLMS_CONSOLE][Tue Sep 24 17:05:49 CST 2019][DEBUG][] - : set 2th parameter: 700116005-01
+[APCLMS_CONSOLE][Tue Sep 24 17:05:49 CST 2019][DEBUG][] - : Connection Active: 0 / 8, Idle:1
+[APCLMS_CONSOLE][Tue Sep 24 17:05:49 CST 2019][DEBUG][] - : Connection Active: 1 / 8, Idle:0
+[APCLMS_CONSOLE][Tue Sep 24 17:05:49 CST 2019][DEBUG][] - : set 1th parameter: 20190214
+[APCLMS_CONSOLE][Tue Sep 24 17:05:49 CST 2019][DEBUG][] - : set 2th parameter: 東方匯理銀行
+[APCLMS_CONSOLE][Tue Sep 24 17:05:49 CST 2019][DEBUG][] - : set 3th parameter: -250000000
+[APCLMS_CONSOLE][Tue Sep 24 17:05:49 CST 2019][DEBUG][] - : set 4th parameter: DD550
+[APCLMS_CONSOLE][Tue Sep 24 17:05:49 CST 2019][DEBUG][] - : set 5th parameter: 700116005-01
+[APCLMS_CONSOLE][Tue Sep 24 17:05:49 CST 2019][DEBUG][] - : set 6th parameter: 20210214
+[APCLMS_CONSOLE][Tue Sep 24 17:05:49 CST 2019][DEBUG][] - : set 7th parameter: 9
+[APCLMS_CONSOLE][Tue Sep 24 17:05:49 CST 2019][DEBUG][] - : Connection Active: 0 / 8, Idle:1
+[APCLMS_CONSOLE][Tue Sep 24 17:05:49 CST 2019][DEBUG][] - : Connection Active: 1 / 8, Idle:0
+[APCLMS_CONSOLE][Tue Sep 24 17:05:49 CST 2019][DEBUG][] - : set 1th parameter: N1.Z處理成功
+[APCLMS_CONSOLE][Tue Sep 24 17:05:49 CST 2019][DEBUG][] - : set 2th parameter: 20190214
+[APCLMS_CONSOLE][Tue Sep 24 17:05:49 CST 2019][DEBUG][] - : set 3th parameter: 東方匯理銀行
+[APCLMS_CONSOLE][Tue Sep 24 17:05:49 CST 2019][DEBUG][] - : set 4th parameter: -250000000
+[APCLMS_CONSOLE][Tue Sep 24 17:05:49 CST 2019][DEBUG][] - : set 5th parameter: DD550
+[APCLMS_CONSOLE][Tue Sep 24 17:05:49 CST 2019][DEBUG][] - : set 6th parameter: 700116005-01
+[APCLMS_CONSOLE][Tue Sep 24 17:05:49 CST 2019][DEBUG][] - : set 7th parameter: 20210214
+[APCLMS_CONSOLE][Tue Sep 24 17:05:49 CST 2019][DEBUG][] - : set 8th parameter: 20190924170549
+[APCLMS_CONSOLE][Tue Sep 24 17:05:49 CST 2019][DEBUG][] - : set 9th parameter: 9
+[APCLMS_CONSOLE][Tue Sep 24 17:05:49 CST 2019][DEBUG][] - : Connection Active: 0 / 8, Idle:1
+N1FETCH rtn code= 0
+N1FETCH sleeping ......
+Last unsuccessful login: Thu Sep 19 13:52:49 TAIST 2019 on ssh from 192.168.107.131
+Last login: Tue Sep 24 17:31:06 TAIST 2019 on ssh from 192.168.107.10
+*******************************************************************************
+*                                                                             *
+*                                                                             *
+*  Welcome to AIX Version 7.1!                                                *
+*                                                                             *
+*                                                                             *
+*  Please see the README file in /usr/lpp/bos for information pertinent to    *
+*  this release of the AIX Operating System.                                  *
+*                                                                             *
+*                                                                             *
+*******************************************************************************
+cd /APCLMS
+
+oxPCLMS.sct down
+
+cd /APCLMS/SCT
+
+clprocN1
+
+exit
+
+-rwxrwxrwx    1 pclmsmgr PCLMS          4825 Sep 18 17:06 /APCLMS/def/SET_APCLMS_ENV.def
+tbg1a)pclmsmgr:/home/pclmsmgr>cd /APCLMS
+
+tbg1a)pclmsmgr:/home/pclmsmgr>          
+
+tbg1a)pclmsmgr:/home/pclmsmgr>cd /APCLMS
+
+tbg1a)pclmsmgr:/home/pclmsmgr>cd /APCLMS
+tbg1a)pclmsmgr:/APCLMS>
+
+tbg1a)pclmsmgr:/APCLMS>
+
+tbg1a)pclmsmgr:/APCLMS>
+
+tbg1a)pclmsmgr:/APCLMS>
+tbg1a)pclmsmgr:/APCLMS>oxPCLMS.sct down
+
+tbg1a)pclmsmgr:/APCLMS>                
+
+tbg1a)pclmsmgr:/APCLMS>oxPCLMS.sct down
+
+tbg1a)pclmsmgr:/APCLMS>oxPCLMS.sct down
+check cl processes
+=======kill ..
+check scan_ processes
+=======kill ..
+check rdoerr processes
+=======kill ..
+check EXE/cl processes
+=======kill ..
+check SCT/cl processes
+=======kill ..
+check sleep processes
+pclmsmgr 29360128 16973838   0 17:31:09  pts/0  0:00 grep sleep
+=======kill ..
+check java processes
+=======kill ..
+mv: 0653-401 無法將 /APCLMS/SCT/PCLMSaimon.sct 重新命名為 /APCLMS/SCT/PCLMSaimon.sct.old:
+             路徑名稱中的檔案或目錄不存在。
+tbg1a)pclmsmgr:/APCLMS>
+
+tbg1a)pclmsmgr:/APCLMS>
+
+tbg1a)pclmsmgr:/APCLMS>
+
+tbg1a)pclmsmgr:/APCLMS>
+tbg1a)pclmsmgr:/APCLMS>cd /APCLMS/SCT
+
+tbg1a)pclmsmgr:/APCLMS>              
+
+tbg1a)pclmsmgr:/APCLMS>cd /APCLMS/SCT
+
+tbg1a)pclmsmgr:/APCLMS>cd /APCLMS/SCT
+tbg1a)pclmsmgr:/APCLMS/SCT>
+
+tbg1a)pclmsmgr:/APCLMS/SCT>
+
+tbg1a)pclmsmgr:/APCLMS/SCT>
+
+tbg1a)pclmsmgr:/APCLMS/SCT>
+tbg1a)pclmsmgr:/APCLMS/SCT>clprocN1
+
+tbg1a)pclmsmgr:/APCLMS/SCT>        
+
+tbg1a)pclmsmgr:/APCLMS/SCT>clprocN1
+
+tbg1a)pclmsmgr:/APCLMS/SCT>clprocN1
+step=N1PROCESS
+09/24/19 17:31:09 ** start receive message **
+[APCLMS_CONSOLE][Tue Sep 24 17:31:14 CST 2019][DEBUG][] - : Connection Active: 1 / 8, Idle:0
+[APCLMS_CONSOLE][Tue Sep 24 17:31:14 CST 2019][DEBUG][] - : set 1th parameter: DD550
+[APCLMS_CONSOLE][Tue Sep 24 17:31:14 CST 2019][DEBUG][] - : set 2th parameter: 700116005-01
+[APCLMS_CONSOLE][Tue Sep 24 17:31:14 CST 2019][DEBUG][] - : Connection Active: 0 / 8, Idle:1
+[APCLMS_CONSOLE][Tue Sep 24 17:31:14 CST 2019][DEBUG][] - : Connection Active: 1 / 8, Idle:0
+[APCLMS_CONSOLE][Tue Sep 24 17:31:14 CST 2019][DEBUG][] - : set 1th parameter: 20190214
+[APCLMS_CONSOLE][Tue Sep 24 17:31:14 CST 2019][DEBUG][] - : set 2th parameter: 東方匯理銀行
+[APCLMS_CONSOLE][Tue Sep 24 17:31:14 CST 2019][DEBUG][] - : set 3th parameter: -250000000
+[APCLMS_CONSOLE][Tue Sep 24 17:31:14 CST 2019][DEBUG][] - : set 4th parameter: DD550
+[APCLMS_CONSOLE][Tue Sep 24 17:31:14 CST 2019][DEBUG][] - : set 5th parameter: 700116005-01
+[APCLMS_CONSOLE][Tue Sep 24 17:31:14 CST 2019][DEBUG][] - : set 6th parameter: 20210214
+[APCLMS_CONSOLE][Tue Sep 24 17:31:14 CST 2019][DEBUG][] - : set 7th parameter: 9
+[APCLMS_CONSOLE][Tue Sep 24 17:31:14 CST 2019][DEBUG][] - : Connection Active: 0 / 8, Idle:1
+[APCLMS_CONSOLE][Tue Sep 24 17:31:14 CST 2019][DEBUG][] - : Connection Active: 1 / 8, Idle:0
+[APCLMS_CONSOLE][Tue Sep 24 17:31:14 CST 2019][DEBUG][] - : set 1th parameter: N1.Z處理成功
+[APCLMS_CONSOLE][Tue Sep 24 17:31:14 CST 2019][DEBUG][] - : set 2th parameter: 20190214
+[APCLMS_CONSOLE][Tue Sep 24 17:31:14 CST 2019][DEBUG][] - : set 3th parameter: 東方匯理銀行
+[APCLMS_CONSOLE][Tue Sep 24 17:31:14 CST 2019][DEBUG][] - : set 4th parameter: -250000000
+[APCLMS_CONSOLE][Tue Sep 24 17:31:14 CST 2019][DEBUG][] - : set 5th parameter: DD550
+[APCLMS_CONSOLE][Tue Sep 24 17:31:14 CST 2019][DEBUG][] - : set 6th parameter: 700116005-01
+[APCLMS_CONSOLE][Tue Sep 24 17:31:14 CST 2019][DEBUG][] - : set 7th parameter: 20210214
+[APCLMS_CONSOLE][Tue Sep 24 17:31:14 CST 2019][DEBUG][] - : set 8th parameter: 20190924173114
+[APCLMS_CONSOLE][Tue Sep 24 17:31:14 CST 2019][DEBUG][] - : set 9th parameter: 9
+[APCLMS_CONSOLE][Tue Sep 24 17:31:14 CST 2019][DEBUG][] - : Connection Active: 0 / 8, Idle:1
+N1FETCH rtn code= 0
+N1FETCH sleeping ......
